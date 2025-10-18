@@ -21,7 +21,7 @@ The data is from the `bigquery-public-data.hacker_news.full` table, which contai
 ## Dashboard
 A live, interactive dashboard was built in Looker Studio to present the findings.
 
-**[View the Live Dashboard Here]([PASTE YOUR LIVE LOOKER STUDIO LINK HERE])**
+**https://lookerstudio.google.com/reporting/34542e5b-e05c-408a-b475-fccd7ce418ab**
 
 ## SQL Queries
 The SQL script used for all analysis in this project is available in the `sql_scripts` folder. This file demonstrates data exploration, aggregation, and the use of advanced SQL functions like Common Table Expressions (CTEs) and `RANK()` to answer complex questions.
