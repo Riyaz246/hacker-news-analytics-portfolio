@@ -29,6 +29,8 @@ The SQL script used for all analysis in this project is available in the `sql_sc
 * **[`analysis_queries.sql`](sql_scripts/analysis_queries.sql)**
 
 
+
+
 graph TD
     subgraph Data & Analysis
         Logs[Raw Data: Hacker News Logs] --> BigQuery[BigQuery Dataset]
